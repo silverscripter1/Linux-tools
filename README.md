@@ -11,7 +11,5 @@ Some linux tools I develop to help enumeration and stuff, your welcome to downlo
 
 Can be ran with `python3 scanner.py`
 
-While I'm writing this I can only scan with Nmap, but will update it later tonight to detect if the nmap result returns http. Then it will run gobuster and prove that information
-This is just for me to speed up my enumeration processes with CTF's and the like
-
+This can speed up your enumeration process, and can continue past port scanning by running gobuster on discovered http ports, logging into ftp ports and SMB enumeration.
 ![image](https://github.com/silverscripter1/Linux-tools/assets/92340426/63a25278-b7ae-4e3c-bd08-81c20662b1ff)
